@@ -7,8 +7,8 @@ https://twimlai.com/twimlfest/sessions/show-and-tell/
 
 ## Presenter
 
-Madhusoodhana Chari S
-LinkedIn: https://in.linkedin.com/in/madhucharis
+Abdul Samadh
+LinkedIn: https://www.linkedin.com/in/azathabdulsamadh/
 
 ## Context
 
@@ -18,9 +18,7 @@ The applciations of which can be pseudo visibility in the type of traffic ( audi
 
 ## Description
 
-In this work, basedon the statistical network behaviour, first it compares, classical neural models and deep neural model using ResNet architecture and highlights the learning advantage.
-Secondly, for intrepretablity of solution it encourages to build a Decison Tree Classififer having visibility into segmentaion using Unique Vector's.
-Thirdly, it using the per class, per feature Heuristics to give a confidence score.
+In this work, basedon the statistical network behaviour, first it compares, classical neural models and deep neural model using ResNet architecture and highlights the learning advantage. Secondly, it using the per class, per feature Heuristics to give a confidence score. The aim of this work is to give a scalable solution for modelling networking traffic.
 
 ## Code
 
@@ -30,18 +28,15 @@ Will be Updating Soon
 
 ## Results, Outcomes, Conclusions
 
-- Clarifies that Deep Learning Models have future scalability with more classes ad also it can learn using more deepler layer's.
+- Clarifies that Deep Learning Models have future scalability with more classes and also it can learn using more deepler layer's.
 - Classifies using Deep Learning ( ResNet) and gives Probability Scoring.
-- Showcases the Intrepretability using Decison Tree and bring in the best practisce of Intrepretability Scoring.
-- Highlights teh value in Statistica Heuristics from data. 
+- Highlights the value in Statistics and Heuristics from data. 
 
 ## Python libraries used
 
-NumPy, Colab, SciPy
+NumPy, Colab, SciPy, Pandas, Tensorflow, matplotlib
 
 ## Open questions/issues
 
 - Addition and Removal of more classes and resizing of ResNet Layer's
 - Agument Deep Learnign with Classic ML using same Freuency
-- 
-- 
