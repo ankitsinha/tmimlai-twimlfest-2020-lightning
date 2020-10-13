@@ -23,7 +23,8 @@ In this work, basedon the statistical network behaviour, first it compares, clas
 ## Code
 
 
-Will be Updating Soon
+[RESNET](RESNET/Resnet.ipynb)
+[MLP](MLP/MLP.ipynb)
 
 
 ## Results, Outcomes, Conclusions
